@@ -1,8 +1,3 @@
-Vaishnavi Pulla
-CSCI 4360
-September 20, 2024
-Dr. Miller
-
 Project overview and objectives:
 
 I evaluated the Seoul Bike Sharing dataset utilizing a variety of regression approaches, such as linear regression, ridge regression, lasso regression, and transformed regression. The goal was to determine which model performed best and was the best at predicting bike rental counts based on weather and seasonal characteristics. As part of this approach, I conducted basic data preprocessing and exploratory data analysis (EDA), both of which are detailed in the report.
